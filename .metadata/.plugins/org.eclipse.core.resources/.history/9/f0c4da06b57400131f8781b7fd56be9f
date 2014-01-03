@@ -1,0 +1,24 @@
+<?php
+/*
+ * Copyright 2014 by Sawyer Bowman and Karen Bowman. This program is 
+ * made originally for Woodlawn School, a nonprofit private school in
+ * Davidson, NC. It comes with absolutely no warranty.  You can redistribute 
+ * and/or modify it under the terms of the GNU Public License as published
+ * by the Free Software Foundation (see <http://www.gnu.org/licenses/).
+*/
+
+/*
+ *  validates information from the alum form
+ *	@Sawyer Bowman
+ *	@version 01/03/2014
+ */
+ 
+function validateForm() {
+	$errors[] = array();
+	if($_POST['firstname'] == null){
+		$errors[] = 'Please enter a first name for the applicant.';
+	}
+	if($_POST['lastname'] == null){
+		$errors[] = 'Please enter a last name for the applicant.';
+	}
+}

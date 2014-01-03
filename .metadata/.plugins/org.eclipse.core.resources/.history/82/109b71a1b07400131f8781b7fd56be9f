@@ -1,0 +1,8 @@
+<?php
+
+include('header.html');
+
+$today = date('Y-M-d');
+$currentday = substr($today, 9, 2);
+$currentmonth = substr($today, 5, 3);
+$currentyear = substr($today, 0, 4);
