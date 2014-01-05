@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+
+#infobar {
+      	width:270px;
+      	height:600px;
+      	position:fixed;
+      	top:85px;
+      	right:35px;
+      	padding:0px;
+      	border-radius:5px;
+      	opacity:0.90;
+      	background-color:#ffffff;
+      	float:right;
+        font-family: Arial, sans-serif;
+        z-layer:99;
+        margin: 10px;
+        border: 3px solid #000;
+}
+
+#infobar1 {
+   
+   width:270px;
+   height:600px;
+   position:fixed;
+   top:85px;
+   right:35px;
+   padding:0px;
+   border-radius:5px;
+   opacity:0.90;
+   background-color:#ffffff;
+   float:right;
+   z-layer:99;
+   display:none;}
+                
+#infobar h3 {
+   background-color:#dddddd;
+   border-top-right-radius:5px;
+   border-top-left-radius:5px;
+   color:#333;
+   margin:0px;
+   padding:4px;
+   font-size:12px;
+   font-family:Arial; 
+}
+
+#infobar h3 span {
+   border:1px outset #cccccc;
+   background-color:#dddddd;
+   color:#333333;
+   cursor:pointer;
+   padding:2px 12px 2px 12px;
+   margin-left:-2px;
+   margin-top:-2px;
+   font-family:Arial; 
+   border-radius: 3px;
+   width:8px;
+   height:8px;
+}
+
+
+
+div#info {padding:5px;font-family: cambria, times, serif; font-size:14px;  overflow:auto;height:550px;}
+
+div#info div.nm {
+   font-weight:bold;
+   font-size:20px;
+   padding:5px;
+   margin-bottom:12px;
+   }
+
+div#info div.maj {margin: auto 5px 15px 5px;}
+
+div#info div.maj span {font-weight:bold;}
+
+div#info div.ht {margin: auto 5px 15px 5px;}
+
+div#info div.ht span {font-weight:bold;}
+
+div#info div.loc {margin: auto 5px 15px 5px;}
+
+div#info div.loc span {font-weight:bold;}
+
+div.pics {
+height:300px;
+}
+
+div#info div.img {
+   background: #F1F1F1;
+   line-height: 16px;
+   max-width: 260px !important;
+   padding: 5px;
+   text-align: center;
+   border: 1px solid #DDD;
+   background-color: #F3F3F3;
+   margin:10px auto;
+   }
+
+div#info div.img div.capt { color: #444;
+font-size: 12px;
+margin: 3px;
+}
+
+div#info div.plans {margin: auto 5px 15px 5px;}
+div#info div.plans span {font-weight:bold;}
+div#info div.best {margin: auto 5px 15px 5px;}
+div#info div.best span {font-weight:bold;}
+div#info div.miss {margin: auto 5px 15px 5px;}
+div#info div.miss span {font-weight:bold;}

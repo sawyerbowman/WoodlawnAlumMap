@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+/*WARNINGS AND ERRORS*/
+.warning{
+	border:1px solid #264576;
+	background:#FFCECE;
+	padding:4px;
+	margin-left: 4px;
+	margin-right: 150px;
+}
+
+p.error {color: #FF0000;}
+
+/* SUCCESS */
+.success{
+	border:1px solid #264576;
+	background:#66CC66;
+	width:78%;
+	padding-top:5px;
+	padding-bottom:10px;
+}
