@@ -13,30 +13,33 @@
  *	@version 01/03/2014
  */
  
-//include('HeaderFooter/header.html');
+include('HeaderFooter/header.html');
 
-?>
-<!DOCTYPE html>
 
-<html>
-  <head>
+// <!DOCTYPE html>
+// <head>
+
+/*
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <style type="text/css">
-	@import "StyleSheets/map.css";
-	@import "StyleSheets/bar.css";   
+    @import "StyleSheets/bowdoin.css";
     </style>
-
-    <script type="text/javascript"
+    
+    //<script type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBugff7KA0pxxhOb7QAQEIRsPMh8IPxO0w&sensor=false">
     </script>
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 
     <script type="text/javascript" 
     src="Scripts/mapInitialize.js">
     </script>
+ */ 
 
-  </head>
-  <body>
+//<body>
+?>
   
+    
     <p align="center"><span style="font-family: verdana,arial,helvetica; color: #336633; font-size: 12pt">
 	<strong>Woodlawn Alums</strong></span></p>
 
@@ -46,15 +49,11 @@
     <div id="woodlawn_map" style="width:100%;height:100%;"></div>
 
     <div id=infobar>
-    <h3><span onclick="hideAlum()">X</span></h3>
+    <h3><span onclick="hideStudent()">X</span></h3>
     <div id="info"></div>
     </div>
     
 
-    
-</body>
-</html>
-
 <?php 
-//include('HeaderFooter/footer.html');
+include('HeaderFooter/footer.html');
 ?>

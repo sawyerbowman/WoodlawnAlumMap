@@ -122,6 +122,6 @@ if(isset($_POST['alumbio'])) {
 </form>
 
 <?php 
-include('footer.html');
+include('../HeaderFooter/footer.html');
 ?>
 

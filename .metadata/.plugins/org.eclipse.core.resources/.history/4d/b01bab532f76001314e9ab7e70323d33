@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+  <title>Bowdoin Students Work Around the Globe, Summer 2013</title>
+
+<meta property="og:title" content="Bowdoin Students Work Around the Globe, Summer 2013" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.bowdoin.edu/interactive/summer-map/" />
+<meta property="og:image" content="http://bowdoin.edu/interactive/summer-map/images/bowdoin-summer-2013.png" />
+<meta property="og:description" content="Explore the Summer 2013 #BowdoinMap to find out what Bowdoin students up to this summer. From Alaska to New Zealand and Thailand to Brunswick, it's a Polar Bear nation." />
+
+  <meta name="description" content="Explore the Summer 2013 #BowdoinMap to find out what Bowdoin students up to this summer. From Alaska to New Zealand and Thailand to Brunswick, it's a Polar Bear nation." />
+   <link rel="img_src" href="http://bowdoin.edu/interactive/summer-map/images/bowdoin-summer-2013.png" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+    <style type="text/css">
+      @import "StyleSheets/bowdoincss.css";
+      
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBugff7KA0pxxhOb7QAQEIRsPMh8IPxO0w&sensor=true">
+    </script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+    <script type="text/javascript" src="Scripts/summer.js"></script>
+
+
+  </head>
+  <body>
+    
+     <div id="summermap" style="width:100%"></div>
+
+        <div id="titlebar">
+            <h1>Bowdoin Summer 2013</h1>
+              <h2>What are Bowdoin students up to this summer? Explore the map to find out.</h2>
+ 
+
+<div id="social">             
+              <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook_like" /> 
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_pinterest_share"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51dd9c0720df7238"></script>
+<!-- AddThis Button END -->
+<br/><a href="http://bowdoin.edu/social" target="_blank">Bowdoin Social &raquo;</a>
+</div>
+              
+              
+        </div>
+        <div id="markbar">
+        
+            <div id="fbox">
+               <h3>Find a Bowdoin Student</h3>
+            
+            <p>Class:
+            <select id="selcy" name="cy" title="Any Year" onchange="addListing('cy:'+this.options[this.selectedIndex].innerHTML)">
+
+            <option>All</option>
+            <option>2017</option>
+            <option>2016</option>
+            <option>2015</option>
+            <option>2014</option> 
+            </select>
+            <br />Major:
+<select id="selmaj" name="depts" title="Any Department" onchange="addListing('maj:'+this.options[this.selectedIndex].innerHTML)">
+<option>any department</option>
+<option>Africana Studies</option>
+<option>Anthropology</option>
+<option>Arabic</option>
+<option>Archaeology</option>
+<option>Art History</option>
+<option>Asian Studies</option>
+<option>Biochemistry</option>
+<option>Biology</option>
+<option>Chemistry</option>
+<option>Chinese</option>
+<option>Classics</option>
+<option>Computer Science</option>
+<option>Dance</option>
+<option>Earth &amp; Oceanographic Science</option>
+<option>Economics</option>
+<option>Education</option>
+<option>English</option>
+<option>Environmental Studies</option>
+<option>Film Studies</option>
+<option>French</option>
+<option>Gay and Lesbian Studies</option>
+<option>Gender and Women's Studies</option>
+<option>German</option>
+<option>Government</option>
+<option>Greek</option>
+<option>History</option>
+<option>Interdisciplinary</option>
+<option>Italian</option>
+<option>Japanese</option>
+<option>Latin</option>
+<option>Latin American Studies</option>
+<option>Mathematics</option>
+<option>Music</option>
+<option>Neuroscience</option>
+<option>Philosophy</option>
+<option>Physics</option>
+<option>Psychology</option>
+<option>Religion</option>
+<option>Russian</option>
+<option>Sociology</option>
+<option>Spanish</option>
+<option>Theater</option>
+<option>Visual Arts</option>
+</select>
+</p>
+<p class="cf" onclick="addListing('')">Show All</p>
+            
+            </div>
+            <div id="slist">
+<p>Name: <input id="nsrch" type="text" value="" size="25"/></p>
+                       <div id="sl2"></div>
+
+</div>
+<div id="moreinfo"><a href="http://www.bowdoin.edu/interactive/summer-map/submit.shtml" target="_blank"><img src="http://bowdoin.edu/interactive/summer-map/images/pb-medallion.png" width="40"/></a> &raquo; <a href="http://www.bowdoin.edu/interactive/summer-map/submit.shtml" target="_blank">Get on the map!</a></div>
+
+
+<!-- for twitter feed -->
+<div>
+
+<a class="twitter-timeline" href="https://twitter.com/search?q=%23bowdoinmap" data-widget-id="355395478332010496">Tweet #bowdoinmap and tell us where you are.</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+</div>
+<!-- end twitter feed -->
+
+<br/>
+<a href="http://www.bowdoin.edu"><img src="http://www.bowdoin.edu/includes/images/bowdoin-college-wordmark-large.gif" /></a>
+
+
+
+</div>
+        <div id="infobar">
+            <h3><span onclick="hideStudent()">X</span></h3>
+          <div id="info">  </div>
+        </div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-272220-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="imgproj"><a href="/interactive" target="_blank">A project of Bowdoin's Interactive Media Group</a></div>        
+
+        
+  </body>
+</html>

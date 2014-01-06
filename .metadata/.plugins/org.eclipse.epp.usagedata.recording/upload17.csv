@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958302261
+error,log,,,"Error in JSDT Core during AST creation",1388958302262
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1388958302265
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958302445
+error,log,,,"Error in JSDT Core during AST creation",1388958302446
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958303865
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1388958305394
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958306129
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1388958308676
+closed,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1388958311805
+closed,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958315018
+closed,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958316876
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958319431
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1388958320514
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958322974
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958324762
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325397
+error,log,,,"Error in JSDT Core during AST creation",1388958325398
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325614
+error,log,,,"Error in JSDT Core during AST creation",1388958325614
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325617
+error,log,,,"Error in JSDT Core during AST creation",1388958325618
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325621
+error,log,,,"Error in JSDT Core during AST creation",1388958325621
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325624
+error,log,,,"Error in JSDT Core during AST creation",1388958325624
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325627
+error,log,,,"Error in JSDT Core during AST creation",1388958325627
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958325630
+error,log,,,"Error in JSDT Core during AST creation",1388958325630
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1388958338039
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1388958339010
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1388958353623
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958355953
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958357074
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958357193
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958359258
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958360808
+error,log,,,"Error in JSDT Core during AST creation",1388958360809
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958371484
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958376774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377757
+error,log,,,"Error in JSDT Core during AST creation",1388958377758
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377762
+error,log,,,"Error in JSDT Core during AST creation",1388958377762
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377766
+error,log,,,"Error in JSDT Core during AST creation",1388958377766
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377769
+error,log,,,"Error in JSDT Core during AST creation",1388958377769
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377772
+error,log,,,"Error in JSDT Core during AST creation",1388958377772
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958377778
+error,log,,,"Error in JSDT Core during AST creation",1388958377778
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958385650
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958394759
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958394837
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958395798
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958395904
+error,log,,,"Error in JSDT Core during AST creation",1388958395905
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958396472
+error,log,,,"Error in JSDT Core during AST creation",1388958396473
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1388958396710
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958397318
+error,log,,,"Error in JSDT Core during AST creation",1388958397319
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958397474
+error,log,,,"Error in JSDT Core during AST creation",1388958397475
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1388958397479
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958399691
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1388958400410
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958401402
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958402157
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403053
+error,log,,,"Error in JSDT Core during AST creation",1388958403053
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403058
+error,log,,,"Error in JSDT Core during AST creation",1388958403058
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403061
+error,log,,,"Error in JSDT Core during AST creation",1388958403062
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403064
+error,log,,,"Error in JSDT Core during AST creation",1388958403065
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403067
+error,log,,,"Error in JSDT Core during AST creation",1388958403068
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403071
+error,log,,,"Error in JSDT Core during AST creation",1388958403071
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403074
+error,log,,,"Error in JSDT Core during AST creation",1388958403074
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403077
+error,log,,,"Error in JSDT Core during AST creation",1388958403077
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403080
+error,log,,,"Error in JSDT Core during AST creation",1388958403080
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403083
+error,log,,,"Error in JSDT Core during AST creation",1388958403083
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403086
+error,log,,,"Error in JSDT Core during AST creation",1388958403086
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403089
+error,log,,,"Error in JSDT Core during AST creation",1388958403089
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403092
+error,log,,,"Error in JSDT Core during AST creation",1388958403092
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403095
+error,log,,,"Error in JSDT Core during AST creation",1388958403095
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403098
+error,log,,,"Error in JSDT Core during AST creation",1388958403099
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403101
+error,log,,,"Error in JSDT Core during AST creation",1388958403102
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403104
+error,log,,,"Error in JSDT Core during AST creation",1388958403105
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403108
+error,log,,,"Error in JSDT Core during AST creation",1388958403108
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403111
+error,log,,,"Error in JSDT Core during AST creation",1388958403111
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403117
+error,log,,,"Error in JSDT Core during AST creation",1388958403118
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403121
+error,log,,,"Error in JSDT Core during AST creation",1388958403121
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403124
+error,log,,,"Error in JSDT Core during AST creation",1388958403124
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403127
+error,log,,,"Error in JSDT Core during AST creation",1388958403127
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403130
+error,log,,,"Error in JSDT Core during AST creation",1388958403130
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403133
+error,log,,,"Error in JSDT Core during AST creation",1388958403133
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403136
+error,log,,,"Error in JSDT Core during AST creation",1388958403136
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403139
+error,log,,,"Error in JSDT Core during AST creation",1388958403139
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403142
+error,log,,,"Error in JSDT Core during AST creation",1388958403143
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403145
+error,log,,,"Error in JSDT Core during AST creation",1388958403145
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403148
+error,log,,,"Error in JSDT Core during AST creation",1388958403148
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403151
+error,log,,,"Error in JSDT Core during AST creation",1388958403151
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403154
+error,log,,,"Error in JSDT Core during AST creation",1388958403154
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403156
+error,log,,,"Error in JSDT Core during AST creation",1388958403157
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403159
+error,log,,,"Error in JSDT Core during AST creation",1388958403160
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403162
+error,log,,,"Error in JSDT Core during AST creation",1388958403162
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403165
+error,log,,,"Error in JSDT Core during AST creation",1388958403165
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403478
+error,log,,,"Error in JSDT Core during AST creation",1388958403479
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403483
+error,log,,,"Error in JSDT Core during AST creation",1388958403484
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403487
+error,log,,,"Error in JSDT Core during AST creation",1388958403487
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403490
+error,log,,,"Error in JSDT Core during AST creation",1388958403490
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403493
+error,log,,,"Error in JSDT Core during AST creation",1388958403493
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958403496
+error,log,,,"Error in JSDT Core during AST creation",1388958403497
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958405852
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958427435
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958429631
+opened,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958429854
+activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958430185
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958433041
+opened,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958433275
+activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958433507
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1388958434448
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1388958434716
+activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958435749
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958437862
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958438314
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439065
+error,log,,,"Error in JSDT Core during AST creation",1388958439066
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439070
+error,log,,,"Error in JSDT Core during AST creation",1388958439070
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439073
+error,log,,,"Error in JSDT Core during AST creation",1388958439074
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439076
+error,log,,,"Error in JSDT Core during AST creation",1388958439076
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439079
+error,log,,,"Error in JSDT Core during AST creation",1388958439079
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958439082
+error,log,,,"Error in JSDT Core during AST creation",1388958439082
+closed,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1388958440873
+closed,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958442085
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958443531
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958448279
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958461528
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958468150
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958474289
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958474966
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958482526
+error,log,,,"Error logged from Debug UI: ",1388958482841
+error,log,,,"Error logged from Debug UI: ",1388958482841
+error,log,,,"Error logged from Debug UI: ",1388958482844
+error,log,,,"Error logged from Debug UI: ",1388958482844
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958493817
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958493923
+error,log,,,"Error in JSDT Core during AST creation",1388958493924
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958514074
+error,log,,,"Error in JSDT Core during AST creation",1388958514075
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958528734
+error,log,,,"Error in JSDT Core during AST creation",1388958528735
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958530435
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958538267
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958539890
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958541881
+opened,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958542366
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958542576
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958544123
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958544429
+error,log,,,"Error in JSDT Core during AST creation",1388958544429
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958546255
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958557501
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1388958574810
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958576415
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958576573
+error,log,,,"Error in JSDT Core during AST creation",1388958576573
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958577473
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958581060
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958583694
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958585093
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958598837
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958641487
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958668818
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958673137
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958674403
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675026
+error,log,,,"Error in JSDT Core during AST creation",1388958675027
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675032
+error,log,,,"Error in JSDT Core during AST creation",1388958675032
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675036
+error,log,,,"Error in JSDT Core during AST creation",1388958675036
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675039
+error,log,,,"Error in JSDT Core during AST creation",1388958675040
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675042
+error,log,,,"Error in JSDT Core during AST creation",1388958675043
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958675045
+error,log,,,"Error in JSDT Core during AST creation",1388958675045
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958676552
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958680540
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958680734
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958684170
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.rename",1388958684206
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684554
+error,log,,,"Error in JSDT Core during AST creation",1388958684555
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684559
+error,log,,,"Error in JSDT Core during AST creation",1388958684560
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684563
+error,log,,,"Error in JSDT Core during AST creation",1388958684563
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684567
+error,log,,,"Error in JSDT Core during AST creation",1388958684567
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684570
+error,log,,,"Error in JSDT Core during AST creation",1388958684570
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958684572
+error,log,,,"Error in JSDT Core during AST creation",1388958684573
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958689140
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958690061
+error,log,,,"Error in JSDT Core during AST creation",1388958690062
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958698051
+opened,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1388958698427
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1388958698806
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958707762
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958712496
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1388958713395
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958717713
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958718964
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1388958735672
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1388958735766
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1388958738349
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1388958739848
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958739957
+error,log,,,"Error in JSDT Core during AST creation",1388958739958
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958757602
+error,log,,,"Error in JSDT Core during AST creation",1388958757603
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1388958758889
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1388958759704
+error,log,,,"Error in JSDT Core during AST creation",1388958759705
