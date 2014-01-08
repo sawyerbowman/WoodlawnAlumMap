@@ -1,0 +1,10 @@
+function universityInfo() {
+    $('fieldset.universityinfo').hide();
+    $('input[name="universityinformation"]').click(function () {
+        if (this.clicked) {
+            $('fieldset.universityinfo').show();
+        } else {
+            $('fieldset.universityinfo').hide();
+        }
+    });
+});

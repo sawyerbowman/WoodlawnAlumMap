@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389149071101
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389149073295
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1389149078446
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389149082194
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389149082994
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389149084117
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389149085068
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389149085497
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149086482
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389149105782
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149105852
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389149107819
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389149112994
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389149120832
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389149123305
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123871
+error,log,,,"Error in JSDT Core during AST creation",1389149123872
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123875
+error,log,,,"Error in JSDT Core during AST creation",1389149123875
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123879
+error,log,,,"Error in JSDT Core during AST creation",1389149123879
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123882
+error,log,,,"Error in JSDT Core during AST creation",1389149123883
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123886
+error,log,,,"Error in JSDT Core during AST creation",1389149123886
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149123897
+error,log,,,"Error in JSDT Core during AST creation",1389149123897
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149124026
+error,log,,,"Error in JSDT Core during AST creation",1389149124027
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149125452
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389149136962
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149137040
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149142610
+error,log,,,"Error in JSDT Core during AST creation",1389149142611
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389149153415
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149153520
+error,log,,,"Error in JSDT Core during AST creation",1389149153521
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149155380
+error,log,,,"Error in JSDT Core during AST creation",1389149155381
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389149160167
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149161552
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389149932941
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149933013
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389149935053
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149935158
+error,log,,,"Error in JSDT Core during AST creation",1389149935159
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149935290
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149938833
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389149938914
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389149939026
+error,log,,,"Error in JSDT Core during AST creation",1389149939026
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389149967608
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389149968554
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389149969899
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389149970807
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389149974383
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389150199490
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389150205368
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389150209843
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1389150210037
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389150214900
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151610630
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151613921
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389151618762
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389151619611
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389151620851
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151623229
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151624689
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151624716
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389151625394
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389151625721
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151626962
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389151628200
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389151630222
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389151630919
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151635782
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151654294
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389151655924
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389151656735
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151657649
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151667145
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151670490
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151677526
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151682582
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151683605
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151684901
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151695100
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151725312
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151814178
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151856545
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389151860730
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389151930585
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151938705
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389151950199
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151964558
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151979728
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389151990090
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152009638
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152015357
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152020700
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389152028375
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152028975
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152030236
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389152031615
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152032152
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152033288
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152037188
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152051671
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152051741
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152054065
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389152055011
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152058334
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152059676
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152063580
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152063643
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389152072743
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152074055
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152076516
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152077863
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152084961
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152091125
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152094108
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389152096957
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152097774
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152098857
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1389152102126
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152103240
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152109708
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152115956
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152119057
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152123301
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152138348
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152140137
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152141306
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152141986
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152144321
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152153281
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389152155247
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152156818
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152159469
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152160292
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152175612
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152177117
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152187020
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152223979
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152237828
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152247514
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152249471
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152260913
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152262503
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152268204
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152268279
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152270384
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152272010
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152274532
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152275692
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152276991
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389152301047
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152307302
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152316709
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152320890
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152328279
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152332327
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152341998
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152343688
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152348670
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152354919
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152356284
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152376630
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152377845
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152386868
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152397802
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152407059
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152411268
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152421763
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152426579
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152429375
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152432249
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389152433615
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152435993
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152437254
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389152450189
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152451267
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152455930
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152460029
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152461208
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152467928
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152474386
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389152482966
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152552891
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152558005
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152559442
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389152559583
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152559688
+error,log,,,"Error in JSDT Core during AST creation",1389152559688
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152566039
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152566829
+error,log,,,"Error in JSDT Core during AST creation",1389152566830
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567049
+error,log,,,"Error in JSDT Core during AST creation",1389152567050
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567054
+error,log,,,"Error in JSDT Core during AST creation",1389152567054
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567057
+error,log,,,"Error in JSDT Core during AST creation",1389152567058
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567061
+error,log,,,"Error in JSDT Core during AST creation",1389152567061
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567064
+error,log,,,"Error in JSDT Core during AST creation",1389152567064
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152567066
+error,log,,,"Error in JSDT Core during AST creation",1389152567067
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152573522
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574342
+error,log,,,"Error in JSDT Core during AST creation",1389152574343
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574347
+error,log,,,"Error in JSDT Core during AST creation",1389152574347
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574350
+error,log,,,"Error in JSDT Core during AST creation",1389152574350
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574353
+error,log,,,"Error in JSDT Core during AST creation",1389152574353
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574355
+error,log,,,"Error in JSDT Core during AST creation",1389152574356
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574358
+error,log,,,"Error in JSDT Core during AST creation",1389152574358
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152574361
+error,log,,,"Error in JSDT Core during AST creation",1389152574361
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152574379
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152632085
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152632156
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152633160
+error,log,,,"Error in JSDT Core during AST creation",1389152633161
+error,log,,,"Unexpected runtime error while computing a text hover",1389152633165
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389152645423
+closed,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1389152645488
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152645527
+error,log,,,"Error in JSDT Core during AST creation",1389152645528
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389152648553
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152665619
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152667043
+activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1389152668908
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389152679715
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389152684225
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152684331
+error,log,,,"Error in JSDT Core during AST creation",1389152684332
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152697642
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389152947568
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152947658
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389152953145
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152953251
+error,log,,,"Error in JSDT Core during AST creation",1389152953252
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152954680
+error,log,,,"Error in JSDT Core during AST creation",1389152954681
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152956454
+error,log,,,"Error in JSDT Core during AST creation",1389152956455
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389152960138
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961028
+error,log,,,"Error in JSDT Core during AST creation",1389152961029
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961036
+error,log,,,"Error in JSDT Core during AST creation",1389152961037
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961040
+error,log,,,"Error in JSDT Core during AST creation",1389152961040
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961042
+error,log,,,"Error in JSDT Core during AST creation",1389152961043
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961045
+error,log,,,"Error in JSDT Core during AST creation",1389152961045
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389152961047
+error,log,,,"Error in JSDT Core during AST creation",1389152961048
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389152961182
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389153067993
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389153068065
+activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1389153069544
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389153074231
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389153077525
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389153079274
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389153107772
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389153114996

@@ -1,0 +1,76 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Woodlawn Alumni</name>
+<description>
+<![CDATA[
+Want to see where Woodlawn Alums have gone and what they have done? Click on the map to explore!
+]]>
+</description>
+<Placemark>
+<name>Sawyer Bowman</name>
+<styleUrl>#style21</styleUrl>
+<Point>
+<coordinates>43.906732,-69.963793,0.000000</coordinates>
+</Point>
+<ExtendedData>
+<Data name="woodlawnclass">
+<value>2011</value>
+</Data>
+<Data name="woodlawnprepare">
+<value>Woodlawn prepared me…</value>
+</Data>
+<Data name="woodlawnmemory">
+<value>I remember back in my day…</value>
+</Data>
+<Data name="location">
+<value>Brunswick, ME, USA</value>
+</Data>
+<Data name="college">
+<value>Bowdoin College</value>
+</Data>
+<Data name="collegeclass">
+<value>2015</value>
+</Data>
+<Data name="collegemajor">
+<value>Computer Science and Spanish</value>
+</Data>
+<Data name="collegeminor">
+<value>Chemistry</value>
+</Data>
+<Data name="collegebio">
+<value>I run Cross country, Indoor and Outdoor Track, participate in Residential Life, tutor for Computer Science and Spanish, and lead tours.</value>
+</Data>
+<Data name="university">
+<value></value>
+</Data>
+<Data name="universityclass">
+<value></value>
+</Data>
+<Data name="universitymajor">
+<value></value>
+</Data>
+<Data name="universitybio">
+<value></value>
+</Data>
+<Data name="company">
+<value></value>
+</Data>
+<Data name="companyposition">
+<value></value>
+</Data>
+<Data name="companybio">
+<value></value>
+</Data>
+<Data name="image">
+<value>
+http://athletics.bowdoin.edu/sports/mxc/2013-14/bios/bowman_sawyer_li4d</value>
+</Data>
+<Data name="caption">
+<value>
+Just hanging out.
+</value>
+</Data>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

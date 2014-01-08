@@ -1,0 +1,12 @@
+<script>
+$(function () {
+    $('fieldset.university').hide();
+    $('input[name="university"]').click(function () {
+        if (this.checked) {
+            $('fieldset.university').show();
+        } else {
+            $('fieldset.university').hide();
+        }
+    });
+});
+</script>

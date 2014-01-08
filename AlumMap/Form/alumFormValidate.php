@@ -14,19 +14,7 @@
  */
  
 function validateForm() {
-	$errors[] = array();
-	if($_POST['alumbio'] == null){
-		$errors[] = 'Please enter a short bio.';
-	}
-	if($_POST['alumcity'] == null){
-		$errors[] = 'Please enter a city.';
-	}
-	if($_POST['alumcountry'] == 'United States of America' && $_POST['alumstate'] == null){
-		$errors[] = 'Please enter a state.';
-	}
-	if($_POST['alumcountry'] == null){
-		$errors[] = 'Please enter a country.';
-	}
+	$errors[] = array();	
 	if($_POST['firstname'] == null){
 		$errors[] = 'Please enter a first name.';
 	}
@@ -42,6 +30,23 @@ function validateForm() {
 	if($_POST['classyear'] == null){
 		$errors[] = 'Please enter a class year.';
 	}
+	if($_POST['woodlawnprepare'] == null){
+		$errors[] = 'Please enter a short statement for how Woodlawn prepared you.';
+	}
+	if($_POST['woodlawnmemory'] == null){
+		$errors[] = 'Please enter a short statement for what you miss about Woodlawn.';
+	}
+	if($_POST['alumcity'] == null){
+		$errors[] = 'Please enter a city.';
+	}
+	if($_POST['alumcountry'] == 'United States of America' && $_POST['alumstate'] == null){
+		$errors[] = 'Please enter a state.';
+	}
+	if($_POST['alumcountry'] == null){
+		$errors[] = 'Please enter a country.';
+	}
+
+	
 	if(!$errors)
         return "";
     else
