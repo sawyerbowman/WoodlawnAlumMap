@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="21" version="2.0">
+<workbench progressCount="37" version="2.0">
 <workbenchAdvisor/>
-<window height="767" width="1225" x="2" y="77">
+<window height="767" width="1225" x="13" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -15,13 +15,15 @@
 <coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="32" y="22"/>
 <coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="32" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="54" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.css.core.csssource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.css.core.csssource.source" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.php.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -41,25 +43,25 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.php.editor" name="mapForm.php" partName="mapForm.php" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/mapForm.php" title="mapForm.php" tooltip="AlumMap/mapForm.php" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.php.editor" name="mapForm.php" partName="mapForm.php" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/mapForm.php" title="mapForm.php" tooltip="AlumMap/mapForm.php" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/mapForm.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="707" selectionTopPixel="288"/>
+<editorState selectionHorizontalPixel="69" selectionLength="0" selectionOffset="1500" selectionTopPixel="423"/>
 </editor>
-<editor id="org.eclipse.wst.css.core.csssource.source" name="styles.css" partName="styles.css" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/styles.css" title="styles.css" tooltip="AlumMap/styles.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/styles.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+<editor id="org.eclipse.php.editor" name="alumForm.php" partName="alumForm.php" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/Form/alumForm.php" title="alumForm.php" tooltip="AlumMap/Form/alumForm.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/Form/alumForm.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8061" selectionTopPixel="3554"/>
 </editor>
-<editor id="org.eclipse.wst.css.core.csssource.source" name="map.css" partName="map.css" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/StyleSheets/map.css" title="map.css" tooltip="AlumMap/StyleSheets/map.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/StyleSheets/map.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="121" selectionTopPixel="0"/>
+<editor id="org.eclipse.php.editor" name="alumForm2.php" partName="alumForm2.php" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/Form/alumForm2.php" title="alumForm2.php" tooltip="AlumMap/Form/alumForm2.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/Form/alumForm2.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5445" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="mapInitialize.js" partName="mapInitialize.js" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/Scripts/mapInitialize.js" title="mapInitialize.js" tooltip="AlumMap/Scripts/mapInitialize.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/Scripts/mapInitialize.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="150" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.wst.html.core.htmlsource.source" name="header.html" partName="header.html" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/HeaderFooter/header.html" title="header.html" tooltip="AlumMap/HeaderFooter/header.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/HeaderFooter/header.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3324" selectionTopPixel="697"/>
 </editor>
-<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="geocode.js" partName="geocode.js" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/Scripts/geocode.js" title="geocode.js" tooltip="AlumMap/Scripts/geocode.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/Scripts/geocode.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="579" selectionTopPixel="0"/>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="mapInitialize2.js" partName="mapInitialize2.js" path="/Applications/MAMP/htdocs/WoodlawnAlumMap/AlumMap/Scripts/mapInitialize2.js" title="mapInitialize2.js" tooltip="AlumMap/Scripts/mapInitialize2.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AlumMap/Scripts/mapInitialize2.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12858" selectionTopPixel="5039"/>
 </editor>
 </editors>
 <views>
@@ -69,9 +71,10 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
+<category IMemento.internal.id="Warnings (61 items)"/>
+<category IMemento.internal.id="Errors"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="84" org.eclipse.ui.ide.markerType="114" org.eclipse.ui.ide.pathField="144" org.eclipse.ui.ide.resourceField="114" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<columnWidths org.eclipse.ui.ide.locationField="84" org.eclipse.ui.ide.markerType="114" org.eclipse.ui.ide.pathField="144" org.eclipse.ui.ide.resourceField="114" org.eclipse.ui.ide.severityAndDescriptionField="317"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -110,7 +113,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.php.editor" activePerspective="org.eclipse.php.perspective">
+<perspectives activePart="org.eclipse.wst.html.core.htmlsource.source" activePerspective="org.eclipse.php.perspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.php.internal.ui.PHPPerspectiveFactory" id="org.eclipse.php.perspective" label="PHP"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -218,164 +221,163 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/AlumMap/mapForm.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/AlumMap/StyleSheets/styles.css"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/AlumMap/StyleSheets/map.css"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/AlumMap/Scripts/initialize.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/AlumMap/Form/alumThankYou.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/AlumMap/styles.css"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/AlumMap/HeaderFooter/header.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/AlumMap/Scripts/mapInitialize.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/AlumMap/Form/alumFormEdit.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/AlumMap/Form/alumForm.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/AlumMap/Form/alumForm2.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/AlumMap/Scripts/mapInitialize2.js"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/AlumMap/Scripts/geocode.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/AlumMap/HeaderFooter/header.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/AlumMap/woodlawn_alums_new.xml"/>
 </editors>
-<item historyLabel="map.css" index="2">
-<position/>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="618" y="0"/>
 </item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="2173" y="0"/>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12638" y="0"/>
 </item>
-<item historyLabel="map.css" index="2">
-<position/>
-</item>
-<item historyLabel="styles.css" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1266" y="0"/>
-</item>
-<item historyLabel="map.css" index="2">
-<position/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="map.css" index="2">
-<position/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1292" y="0"/>
-</item>
-<item historyLabel="map.css" index="2">
-<position/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="914" y="0"/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="alumThankYou.php" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1264" y="0"/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1264" y="0"/>
-</item>
-<item historyLabel="styles.css" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="header.html" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="485" y="0"/>
+<item historyLabel="geocode.js" index="5">
+<position info="not_deleted" x="405" y="0"/>
 </item>
 <item historyLabel="header.html" index="6">
 <position/>
 </item>
-<item historyLabel="mapForm.php" index="0">
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12638" y="0"/>
+</item>
+<item historyLabel="header.html" index="6">
 <position/>
 </item>
-<item historyLabel="styles.css" index="5">
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="618" y="0"/>
+</item>
+<item historyLabel="geocode.js" index="5">
+<position info="not_deleted" x="412" y="0"/>
+</item>
+<item historyLabel="header.html" index="6">
+<position info="not_deleted" x="3324" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="618" y="0"/>
+</item>
+<item historyLabel="geocode.js" index="5">
+<position info="not_deleted" x="0" y="412"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="13188" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="618" y="0"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position/>
+</item>
+<item historyLabel="geocode.js" index="5">
+<position info="not_deleted" x="412" y="0"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12782" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position/>
+</item>
+<item historyLabel="woodlawn_alums_new.xml" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="header.html" index="6">
-<position info="not_deleted" x="218" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="897" y="0"/>
-</item>
-<item historyLabel="header.html" index="6">
-<position info="not_deleted" x="213" y="0"/>
-</item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1364" y="0"/>
-</item>
-<item historyLabel="initialize.js" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="mapInitialize.js" index="7">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="map.css" index="2">
+<item historyLabel="alumForm2.php" index="3">
 <position/>
 </item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="4851" y="636"/>
+</item>
+<item historyLabel="alumForm.php" index="2">
+<position info="not_deleted" x="7955" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5716" y="0"/>
+</item>
+<item historyLabel="alumForm.php" index="2">
+<position info="not_deleted" x="7955" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5359" y="0"/>
+</item>
+<item historyLabel="alumForm.php" index="2">
+<position info="not_deleted" x="8061" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5377" y="0"/>
+</item>
+<item historyLabel="alumForm.php" index="2">
+<position info="not_deleted" x="8061" y="0"/>
+</item>
 <item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="1364" y="0"/>
+<position info="not_deleted" x="1500" y="0"/>
 </item>
-<item historyLabel="mapInitialize.js" index="7">
-<position info="not_deleted" x="353" y="0"/>
+<item historyLabel="alumFormEdit.php" index="1">
+<position info="not_deleted" x="552" y="0"/>
 </item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="707" y="0"/>
+<item historyLabel="alumForm.php" index="2">
+<position info="not_deleted" x="8061" y="0"/>
 </item>
-<item historyLabel="mapInitialize.js" index="7">
-<position info="not_deleted" x="353" y="0"/>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5319" y="0"/>
 </item>
-<item historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="707" y="0"/>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="13134" y="0"/>
 </item>
-<item historyLabel="mapInitialize.js" index="7">
-<position info="not_deleted" x="809" y="0"/>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5640" y="0"/>
 </item>
-<item historyLabel="geocode.js" index="8">
-<position info="not_deleted" x="52" y="38"/>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="13159" y="0"/>
 </item>
-<item historyLabel="mapInitialize.js" index="7">
-<position info="not_deleted" x="150" y="0"/>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5587" y="0"/>
 </item>
-<item historyLabel="geocode.js" index="8">
-<position info="not_deleted" x="579" y="0"/>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="13159" y="0"/>
 </item>
-<item active="true" historyLabel="mapForm.php" index="0">
-<position info="not_deleted" x="707" y="0"/>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12858" y="0"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12858" y="0"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12858" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5445" y="0"/>
+</item>
+<item historyLabel="mapInitialize2.js" index="4">
+<position info="not_deleted" x="12858" y="0"/>
+</item>
+<item historyLabel="alumForm2.php" index="3">
+<position info="not_deleted" x="5445" y="0"/>
+</item>
+<item active="true" historyLabel="header.html" index="6">
+<position info="not_deleted" x="3324" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -401,17 +403,41 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="geocode.js" tooltip="AlumMap/Scripts/geocode.js">
-<persistable path="/AlumMap/Scripts/geocode.js"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="woodlawn_alums_new.xml" tooltip="AlumMap/woodlawn_alums_new.xml">
+<persistable path="/AlumMap/woodlawn_alums_new.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="mapInitialize2.js" tooltip="AlumMap/Scripts/mapInitialize2.js">
+<persistable path="/AlumMap/Scripts/mapInitialize2.js"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="header.html" tooltip="AlumMap/HeaderFooter/header.html">
 <persistable path="/AlumMap/HeaderFooter/header.html"/>
 </file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="geocode.js" tooltip="AlumMap/Scripts/geocode.js">
+<persistable path="/AlumMap/Scripts/geocode.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="alumForm2.php" tooltip="AlumMap/Form/alumForm2.php">
+<persistable path="/AlumMap/Form/alumForm2.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="alumForm.php" tooltip="AlumMap/Form/alumForm.php">
+<persistable path="/AlumMap/Form/alumForm.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="alumFormEdit.php" tooltip="AlumMap/Form/alumFormEdit.php">
+<persistable path="/AlumMap/Form/alumFormEdit.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="mapInitialize.js" tooltip="AlumMap/Scripts/mapInitialize.js">
+<persistable path="/AlumMap/Scripts/mapInitialize.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="woodlawn_alums_old.xml" tooltip="AlumMap/woodlawn_alums_old.xml">
+<persistable path="/AlumMap/woodlawn_alums_old.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="woodlawndivs.css" tooltip="AlumMap/StyleSheets/woodlawndivs.css">
+<persistable path="/AlumMap/StyleSheets/woodlawndivs.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="alumFormValidate.php" tooltip="AlumMap/Form/alumFormValidate.php">
+<persistable path="/AlumMap/Form/alumFormValidate.php"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="alumThankYou.php" tooltip="AlumMap/Form/alumThankYou.php">
 <persistable path="/AlumMap/Form/alumThankYou.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="map.css" tooltip="AlumMap/StyleSheets/map.css">
-<persistable path="/AlumMap/StyleSheets/map.css"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="mapForm.php" tooltip="AlumMap/mapForm.php">
 <persistable path="/AlumMap/mapForm.php"/>
