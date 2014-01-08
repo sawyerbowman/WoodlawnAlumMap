@@ -114,20 +114,47 @@ function clearOverlays() {
                     if(college != "") {
                         info += "<div class='college'><span>College:</span> "+college+" '"+collegeclass.substring(2)+"</div>";
                     }
+                    if(collegemaj != "" && collegemin != "") {
+                        info += "<div class='collegemaj'><span>College Major/Minor(s):</span> "+collegemaj+"/"+collegemin+"</div>";
+                    }
+                    else {
+                    	info += "<div class='collegemaj'><span>College Major(s):</span> "+collegemaj+"</div>";       
+                    }
+                    if(univ != "") {
+                        info += "<div class='univ'><span>University:</span> "+univ+" '"+univclass.substring(2)+"</div>";
+                    }
+                    if(univmaj != "") {
+                        info += "<div class='univmaj'><span>University Degree:</span> "+univmaj+"</div>";
+                    }
+                    if(job != "") {
+                    	info += "<div class='job'><span>Company:</span> "+job+"</div>";
+                    }
+                    if(jobpos != "") {
+                    	info += "<div class='jobpos'><span>Position:</span> "+jobpos+"</div>";
+                    }
+                    if (jobbio == "" && univbio == ""){
+                    	if(collegebio != "") {
+                    		info += "<div class='collegebio'><span>What are you up to?:</span> "+collegebio+"</div>";
+                    	}
+                    }
+                    else if (jobbio == "") {
+                    	if(univbio != "") {
+                    		info += "<div class='univbio'><span>What are you up to?:</span> "+univbio+"</div>";
+                    	}
+                    }
+                    else {
+                    	if(jobbio != "") {
+                    		info += "<div class='jobbio'><span>What are you up to?:</span> "+jobbio+"</div>";
+                    	}
+                    }
                     if(loc != "") {
                         info += "<div class='loc'><span>Location:</span> "+loc+"</div>";
                     }
-                    if(collegemaj != "") {
-                        info += "<div class='collegemaj'><span>Major/Minor(s):</span> "+collegemaj+" / "+collegemin+"</div>";
-                    }
-                    if(collegebio != "") {
-                        info += "<div class='collegemaj'><span>What are you up to?:</span> "+collegebio+"</div>";
-                    }
-                    if(woodlawnprep != "") {
-                        info += "<div class='woodlawnprep'><span>How has Woodlawn prepared you?:</span> "+woodlawnprep+"</div>";
-                    }
+//                    if(woodlawnprep != "") {
+//                        info += "<div class='woodlawnprep'><span>How has Woodlawn prepared you?:</span> "+woodlawnprep+"</div>";
+//                    }
                     if(woodlawnmem != "") {
-                        info += "<div class='woodlawnmem'><span>What do you miss most about Woodlawn?:</span> "+woodlawnmem+"</div>";
+                        info += "<div class='woodlawnmem'><span>What do you miss about Woodlawn?:</span> "+woodlawnmem+"</div>";
                     }
 
 info += "<div class='pics'>"; 
@@ -305,7 +332,7 @@ jQuery.expr[':'].Contains = function(a, i, m) {
   return jQuery(a).text().toUpperCase().indexOf(m[3].toUpperCase()) >= 0; 
 };
 
-        
+geocoder = new google.maps.Geocoder();
         var mapOptions = {
             center: new google.maps.LatLng(43,-69),
             zoom: zk,
@@ -325,6 +352,22 @@ jQuery.expr[':'].Contains = function(a, i, m) {
         addListing("");
 
     }
+    
+    function codeAddress2() {
+    	var geocoder = new google.maps.Geocoder();
+    	var address = document.getElementById("address").value;
+
+    	geocoder.geocode( { 'address': address}, function(results, status) {
+
+    	if (status == google.maps.GeocoderStatus.OK) {
+    	    var latitude = results[0].geometry.location.lat();
+    	    var longitude = results[0].geometry.location.lng();
+    	    document.getElementById("longitude").value = longitude;
+    	    document.getElementById("latitude").value = latitude;
+    	    } 
+    	}); 
+    	}
+    
     google.maps.event.addDomListener(window, 'load', initialize);
 
 

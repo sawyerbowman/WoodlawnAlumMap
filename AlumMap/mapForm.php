@@ -45,6 +45,8 @@ include('HeaderFooter/header.html');
 
 	<p align="center"><span style="font-family: verdana,arial,helvetica; color: #336633; font-size: 12pt">
 	Where are they now?</span></p>
+	
+	<a href="http://localhost/WoodlawnAlumMap/AlumMap/Form/alumFormEdit.php">Click here to get on the map!</a>
 
     <div id="woodlawn_map" style="width:100%;height:100%;"></div>
 

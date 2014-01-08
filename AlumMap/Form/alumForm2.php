@@ -66,7 +66,7 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 			<input type="hidden" type="text" size="40"
 			id="alumcity" name="alumcity" value="<?php echo($_POST['alumcity']); ?>">
 			
-			State<select
+			<select
 			style="display:none;" id="alumstate" name="alumstate">
 			<?php 
 			$states = array("","AL","AK","AZ","AR","CA","CO","CT","DE","DC","FL","GA","HI","ID","IL","IN","IA",
@@ -162,13 +162,19 @@ else {
 <input type="hidden" type="text" size="17"
 id="address" name="address" value="<?php echo($address); ?>">
 
+<?php echo('<script type="text/javascript"> codeAddress2(); </script>'); ?>
+
+<input type="hidden" type="text" size="17"
+id="longitude" name="longitude">
+
+<input type="hidden" type="text" size="17"
+id="latitude" name="latitude">
+
 </form>
 
 <?php 
 include("../HeaderFooter/footer.html");
 ?>
 
-<script type="text/javascript">
-document.alumForm2.submit();
-</script>
+
 

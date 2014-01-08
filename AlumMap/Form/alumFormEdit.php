@@ -13,7 +13,9 @@
  *	@Sawyer Bowman
  *	@version 01/03/2014
  */
- 
+?>
+
+<?php
 include('../HeaderFooter/header.html');
 include('alumFormValidate.php');
 	if(!array_key_exists('_form_submit', $_POST)){

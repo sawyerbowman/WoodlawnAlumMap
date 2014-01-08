@@ -47,6 +47,9 @@ $(function () {
     });
 });
 </script>
+<style>
+@import "../StyleSheets/styles.css";
+</style>
 
 <form method="POST" id="alumForm" name="alumForm">
 
@@ -172,21 +175,21 @@ Tell us about where you are, what you're doing, and more!</span></p>
 
 <br>
 
-<input type="checkbox" name="universityinformation"> Display/Hide University Information!
+<input type="checkbox" name="universityinformation"> Display/Hide Graduate School Information
 
 <br>
 <br>
 
 <fieldset class="universityinfo">
-	<legend><span style="color: green;">University Information</span></legend>
+	<legend><span style="color: green;">Graduate School Information</span></legend>
 		<table>
-			<tr><td>University</td> <td><input type="text" size="17"
+			<tr><td>Graduate School</td> <td><input type="text" size="17"
 			id="university" name="university" value="<?php echo($_POST['university']); ?>"></td><td width="10"></td>
-			<td>University Class Year</td> <td><input type="text" size="17"
+			<td>Graduate School Class Year</td> <td><input type="text" size="17"
 			id="universityyear" name="universityyear" value="<?php echo($_POST['universityyear']); ?>"></td></tr>
 		</table>
 		<table>
-			<tr><td>Major</td> <td><input type="text" size="17"
+			<tr><td>Degree</td> <td><input type="text" size="17"
 			id="universitymajor" name="universitymajor" value="<?php echo($_POST['universitymajor']); ?>"></td>
 		</table>
 		<table>
@@ -201,7 +204,7 @@ Tell us about where you are, what you're doing, and more!</span></p>
 
 <br>
 
-<input type="checkbox" name="jobinformation"> Display/Hide Job Information!
+<input type="checkbox" name="jobinformation"> Display/Hide Job Information
 
 <br>
 <br>
@@ -223,6 +226,33 @@ Tell us about where you are, what you're doing, and more!</span></p>
 			?></textarea></td></tr></tr>
 		</table>
 </fieldset>
+
+<?php
+$college = $_POST['college'];
+$university = $_POST['university'];
+$job = $_POST['job'];
+$city = $_POST['alumcity'];
+$state = $_POST['alumstate'];
+$country = $_POST['alumcountry'];
+if ($university == null && $job == null && $college != null){
+	$address = "$college $city $state $country";
+}
+elseif ($job == null && $university != null) {
+	$address = "$university $city $state $country";
+}
+elseif ($job != null) {
+	$address = "$job $city $state $country";
+}
+else {
+	$address = "$city $state $country";
+}
+
+//echo($address);
+
+?>
+
+<input type="hidden" type="text" size="17"
+id="address" name="address" value="<?php echo($address); ?>">
 
 <br><br>
 
