@@ -162,13 +162,13 @@ else {
 <input type="hidden" type="text" size="17"
 id="address" name="address" value="<?php echo($address); ?>">
 
-<input type="text" size="17"
+<input type="hidden" type="text" size="17"
 id="longitude" name="longitude" value="<?php echo($_POST['longitude']); ?>">
 
-<input type="text" size="17"
+<input type="hidden" type="text" size="17"
 id="latitude" name="latitude" value="<?php echo($_POST['latitude']); ?>">
 
-<?php echo('<script type="text/javascript"> codeAddress2(); </script>'); ?>
+
 
 </form>
 
@@ -176,8 +176,6 @@ id="latitude" name="latitude" value="<?php echo($_POST['latitude']); ?>">
 include("../HeaderFooter/footer.html");
 ?>
 
-<script>
-document.alumForm2.submit();
-</script>
+
 
 

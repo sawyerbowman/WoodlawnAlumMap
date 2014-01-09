@@ -176,8 +176,6 @@ id="latitude" name="latitude" value="<?php echo($_POST['latitude']); ?>">
 include("../HeaderFooter/footer.html");
 ?>
 
-<script>
-document.alumForm2.submit();
-</script>
+
 
 

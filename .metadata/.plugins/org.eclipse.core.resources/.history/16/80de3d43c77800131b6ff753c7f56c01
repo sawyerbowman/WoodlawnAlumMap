@@ -254,13 +254,13 @@ else {
 <input type="hidden" type="text" size="17"
 id="address" name="address" value="<?php echo($address); ?>">
 
-<input type="hidden" type="text" size="17"
-id="longitude" name="longitude" value="">
-
-<input type="hidden" type="text" size="17"
-id="latitude" name="latitude" value="">
-
 <?php echo('<script type="text/javascript"> codeAddress2(); </script>'); ?>
+
+<input type="text" size="17"
+id="longitude" name="longitude">
+
+<input type="text" size="17"
+id="latitude" name="latitude">
 
 <br><br>
 

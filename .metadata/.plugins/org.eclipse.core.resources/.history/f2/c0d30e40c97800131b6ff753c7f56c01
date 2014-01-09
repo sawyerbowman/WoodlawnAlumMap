@@ -26,8 +26,7 @@ include('../HeaderFooter/header.html');
 	</ul></div>
 <br>
 
-<p>Thank you for your submission. Give us a couple days to incorporate your information, and you'll be listed on the map! 
-To go back to the alumni map, click <a href="http://localhost/WoodlawnAlumMap/AlumMap/mapForm.php">here</a>!<br>
+<p>Thank you for your submission. Visit our <a href="http://localhost/WoodlawnAlumMap/AlumMap/mapForm.php">Alumni Map</a>.<br>
 
 </p>
 <?php 

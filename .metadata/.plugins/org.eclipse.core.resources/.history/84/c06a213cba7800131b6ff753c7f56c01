@@ -254,14 +254,6 @@ else {
 <input type="hidden" type="text" size="17"
 id="address" name="address" value="<?php echo($address); ?>">
 
-<input type="hidden" type="text" size="17"
-id="longitude" name="longitude" value="">
-
-<input type="hidden" type="text" size="17"
-id="latitude" name="latitude" value="">
-
-<?php echo('<script type="text/javascript"> codeAddress2(); </script>'); ?>
-
 <br><br>
 
 <button type="submit" value="_form_submit" name="_form_submit">Submit Form </button>
