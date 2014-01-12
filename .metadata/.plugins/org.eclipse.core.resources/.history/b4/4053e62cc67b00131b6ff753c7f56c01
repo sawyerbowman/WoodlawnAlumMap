@@ -143,7 +143,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
 <name>Terin Patel-Wilson</name>
 <styleUrl>#style21</styleUrl>
 <Point>
-<coordinates>-72.9223430,41.3163240</coordinates>
+<coordinates>-81.3266100,35.7398110</coordinates>
 </Point>
 <ExtendedData>
 <Data name="woodlawnclass">
@@ -156,7 +156,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
 <value>I definitely miss seeing my classmates and even my teachers, the people I really grew up with, on a regular basis.</value>
 </Data>
 <Data name="location">
-<value>New Haven, CT, USA</value>
+<value>New Have, CT, USA</value>
 </Data>
 <Data name="college">
 <value>Yale University</value>
