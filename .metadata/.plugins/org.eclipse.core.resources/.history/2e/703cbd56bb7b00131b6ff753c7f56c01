@@ -229,7 +229,7 @@ Tell us about where you are, what you're doing, and more!</span></p>
 
 <br>
 
-Your Photo: <input type="file" id="photo" name="photo" size="25" />
+Your Photo: <input type="file" name="photo" size="25" />
 
 <?php
 $college = $_POST['college'];

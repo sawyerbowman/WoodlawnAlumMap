@@ -48,6 +48,8 @@ include('HeaderFooter/header.html');
 	
 	<a href="http://localhost/WoodlawnAlumMap/AlumMap/Form/alumFormEdit.php">Click here to get on the map!</a>
 
+</div> 
+
     <div id="woodlawn_map" style="text-align:center;width:90%;height:90%;"></div>
 
     <div id=infobar>

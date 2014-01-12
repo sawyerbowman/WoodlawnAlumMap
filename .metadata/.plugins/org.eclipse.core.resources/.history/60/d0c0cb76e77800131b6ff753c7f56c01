@@ -38,9 +38,19 @@ include('HeaderFooter/header.html');
 
 //<body>
 ?>
+
+				</div>
+			
+		</div>
+	</div>
+
+		
+														<div id="component" class="floatbox">
+
+
   
     
-   <p align="center"><span style="font-family: verdana,arial,helvetica; color: #336633; font-size: 12pt">
+    <p align="center"><span style="font-family: verdana,arial,helvetica; color: #336633; font-size: 12pt">
 	<strong>Woodlawn Alums</strong></span></p>
 
 	<p align="center"><span style="font-family: verdana,arial,helvetica; color: #336633; font-size: 12pt">
@@ -48,12 +58,28 @@ include('HeaderFooter/header.html');
 	
 	<a href="http://localhost/WoodlawnAlumMap/AlumMap/Form/alumFormEdit.php">Click here to get on the map!</a>
 
+</div> 
+
     <div id="woodlawn_map" style="text-align:center;width:90%;height:90%;"></div>
 
     <div id=infobar>
     <h3><span onclick="hideStudent()">X</span></h3>
     <div id="info"></div>
     </div>
+    
+
+</div>
+
+				
+		
+	</div>
+
+</div>															
+														</div>
+							
+																											
+													</div>
+												</div>
     
 
 <?php 

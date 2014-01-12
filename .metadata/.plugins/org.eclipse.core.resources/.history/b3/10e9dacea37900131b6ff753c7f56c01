@@ -77,7 +77,7 @@ Cross Country at Popham Beach.
 <name>Darius Knott</name>
 <styleUrl>#style21</styleUrl>
 <Point>
-<coordinates>-81.3266100,35.7398110</coordinates>
+<coordinates>-69.963793,43.906732</coordinates>
 </Point>
 <ExtendedData>
 <Data name="woodlawnclass">
@@ -131,72 +131,6 @@ Cross Country at Popham Beach.
 <Data name="image">
 <value>
 http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
-</Data>
-<Data name="caption">
-<value>
-</value>
-</Data>
-</ExtendedData>
-</Placemark>
-
-<Placemark>
-<name>Terin Patel-Wilson</name>
-<styleUrl>#style21</styleUrl>
-<Point>
-<coordinates>-81.3266100,35.7398110</coordinates>
-</Point>
-<ExtendedData>
-<Data name="woodlawnclass">
-<value>2011</value>
-</Data>
-<Data name="woodlawnprepare">
-<value>Firstly, Woodlawn provided a top notch education by constantly pushing us academically and simultaneously instilling studetns with a love of learning. Becasue of this, the transition into college-level work was much smoother than I had expected. But beyond academics, because of its size and close-knit community, Woodlawn really helped me develop a personal confidence and sense of self that I couldn't have gotten at another institution.</value>
-</Data>
-<Data name="woodlawnmemory">
-<value>I definitely miss seeing my classmates and even my teachers, the people I really grew up with, on a regular basis.</value>
-</Data>
-<Data name="location">
-<value>New Have, CT, USA</value>
-</Data>
-<Data name="college">
-<value>Yale University</value>
-</Data>
-<Data name="collegeclass">
-<value>2015</value>
-</Data>
-<Data name="collegemajor">
-<value>Computer Science</value>
-</Data>
-<Data name="collegeminor">
-<value></value>
-</Data>
-<Data name="collegebio">
-<value>I work in the Admission office, I'm a tour guide, I work with TEDxYale, and I teach health/sex education to local high schools with Community Health Educators. Oh, and I'm studying abroad in Budapest this semester!</value>
-</Data>
-<Data name="university">
-<value></value>
-</Data>
-<Data name="universityclass">
-<value></value>
-</Data>
-<Data name="universitymajor">
-<value></value>
-</Data>
-<Data name="universitybio">
-<value></value>
-</Data>
-<Data name="company">
-<value></value>
-</Data>
-<Data name="companyposition">
-<value></value>
-</Data>
-<Data name="companybio">
-<value></value>
-</Data>
-<Data name="image">
-<value>
-http://localhost/WoodlawnAlumMap/AlumMap/Images/terin.jpg</value>
 </Data>
 <Data name="caption">
 <value>

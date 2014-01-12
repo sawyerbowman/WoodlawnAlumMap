@@ -135,7 +135,7 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 			}
 			?></textarea>
 			
-			<input type="file" id="photo" name="photo" size="25" value="<?php echo($_FILES['photo']);?>"/>
+			<input type="file" name="photo" size="25" value="<?php echo($_POST['photo']);?>/>
 
 <?php
 $college = $_POST['college'];

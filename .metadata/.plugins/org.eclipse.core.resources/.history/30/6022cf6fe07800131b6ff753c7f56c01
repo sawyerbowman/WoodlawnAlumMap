@@ -227,10 +227,6 @@ Tell us about where you are, what you're doing, and more!</span></p>
 		</table>
 </fieldset>
 
-<br>
-
-Your Photo: <input type="file" id="photo" name="photo" size="25" />
-
 <?php
 $college = $_POST['college'];
 $university = $_POST['university'];

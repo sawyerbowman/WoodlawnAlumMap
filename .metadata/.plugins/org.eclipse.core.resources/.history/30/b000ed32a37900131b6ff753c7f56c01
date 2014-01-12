@@ -74,89 +74,23 @@ Cross Country at Popham Beach.
 </Placemark>
 
 <Placemark>
-<name>Darius Knott</name>
-<styleUrl>#style21</styleUrl>
-<Point>
-<coordinates>-81.3266100,35.7398110</coordinates>
-</Point>
-<ExtendedData>
-<Data name="woodlawnclass">
-<value>2011</value>
-</Data>
-<Data name="woodlawnprepare">
-<value>Woodlawn prepared me by helping me find my own work ethic and preparing me academically.</value>
-</Data>
-<Data name="woodlawnmemory">
-<value>The thing I miss most about Woodlawn is the camaraderie of the people in our class.</value>
-</Data>
-<Data name="location">
-<value>Hickory, NC, USA</value>
-</Data>
-<Data name="college">
-<value>Lenoir-Rhyne University</value>
-</Data>
-<Data name="collegeclass">
-<value>2015</value>
-</Data>
-<Data name="collegemajor">
-<value>Information Technology</value>
-</Data>
-<Data name="collegeminor">
-<value>Chemistry</value>
-</Data>
-<Data name="collegebio">
-<value>I am currently an IT major with a focus in web programming. I am also co-captain of the Los Osos Ultimate Frisbee team.</value>
-</Data>
-<Data name="university">
-<value></value>
-</Data>
-<Data name="universityclass">
-<value></value>
-</Data>
-<Data name="universitymajor">
-<value></value>
-</Data>
-<Data name="universitybio">
-<value></value>
-</Data>
-<Data name="company">
-<value></value>
-</Data>
-<Data name="companyposition">
-<value></value>
-</Data>
-<Data name="companybio">
-<value></value>
-</Data>
-<Data name="image">
-<value>
-http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
-</Data>
-<Data name="caption">
-<value>
-</value>
-</Data>
-</ExtendedData>
-</Placemark>
-
-<Placemark>
 <name>Terin Patel-Wilson</name>
 <styleUrl>#style21</styleUrl>
 <Point>
-<coordinates>-81.3266100,35.7398110</coordinates>
+<coordinates>-72.922343,41.316324</coordinates>
 </Point>
 <ExtendedData>
 <Data name="woodlawnclass">
 <value>2011</value>
 </Data>
 <Data name="woodlawnprepare">
-<value>Firstly, Woodlawn provided a top notch education by constantly pushing us academically and simultaneously instilling studetns with a love of learning. Becasue of this, the transition into college-level work was much smoother than I had expected. But beyond academics, because of its size and close-knit community, Woodlawn really helped me develop a personal confidence and sense of self that I couldn't have gotten at another institution.</value>
+<value></value>
 </Data>
 <Data name="woodlawnmemory">
-<value>I definitely miss seeing my classmates and even my teachers, the people I really grew up with, on a regular basis.</value>
+<value>I miss being a derp.</value>
 </Data>
 <Data name="location">
-<value>New Have, CT, USA</value>
+<value>New Haven, CT, USA</value>
 </Data>
 <Data name="college">
 <value>Yale University</value>
@@ -171,7 +105,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
 <value></value>
 </Data>
 <Data name="collegebio">
-<value>I work in the Admission office, I'm a tour guide, I work with TEDxYale, and I teach health/sex education to local high schools with Community Health Educators. Oh, and I'm studying abroad in Budapest this semester!</value>
+<value>I am a tour guide, a coder, and a derp.</value>
 </Data>
 <Data name="university">
 <value></value>
@@ -200,10 +134,144 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/terin.jpg</value>
 </Data>
 <Data name="caption">
 <value>
+Just being myself.
 </value>
 </Data>
 </ExtendedData>
 </Placemark>
 
+<Placemark>
+<name>Sophia Spach</name>
+<styleUrl>#style21</styleUrl>
+<Point>
+<coordinates>-79.506598,36.103061</coordinates>
+</Point>
+<ExtendedData>
+<Data name="woodlawnclass">
+<value>2011</value>
+</Data>
+<Data name="woodlawnprepare">
+<value></value>
+</Data>
+<Data name="woodlawnmemory">
+<value>I once rode a dolphin off the coast of Great Britain. I love British bread.</value>
+</Data>
+<Data name="location">
+<value>Elon, NC, USA</value>
+</Data>
+<Data name="college">
+<value>Elon University</value>
+</Data>
+<Data name="collegeclass">
+<value>2015</value>
+</Data>
+<Data name="collegemajor">
+<value>Human Service Studies</value>
+</Data>
+<Data name="collegeminor">
+<value>Religious Studies and Photography</value>
+</Data>
+<Data name="collegebio">
+<value>I once swallowed a fly.</value>
+</Data>
+<Data name="university">
+<value></value>
+</Data>
+<Data name="universityclass">
+<value></value>
+</Data>
+<Data name="universitymajor">
+<value></value>
+</Data>
+<Data name="universitybio">
+<value></value>
+</Data>
+<Data name="company">
+<value></value>
+</Data>
+<Data name="companyposition">
+<value></value>
+</Data>
+<Data name="companybio">
+<value></value>
+</Data>
+<Data name="image">
+<value>
+http://localhost/WoodlawnAlumMap/AlumMap/Images/sophia.jpg</value>
+</Data>
+<Data name="caption">
+<value>
+Look, a fence.
+</value>
+</Data>
+</ExtendedData>
+</Placemark>
+
+<Placemark>
+<name>Kathleen Elkins</name>
+<styleUrl>#style21</styleUrl>
+<Point>
+<coordinates>-73.204994,42.713471</coordinates>
+</Point>
+<ExtendedData>
+<Data name="woodlawnclass">
+<value>2010</value>
+</Data>
+<Data name="woodlawnprepare">
+<value></value>
+</Data>
+<Data name="woodlawnmemory">
+<value>I ran a 19:02 for the 5k... great moment.</value>
+</Data>
+<Data name="location">
+<value>Williamstown, MA, USA</value>
+</Data>
+<Data name="college">
+<value>Williams College</value>
+</Data>
+<Data name="collegeclass">
+<value>2014</value>
+</Data>
+<Data name="collegemajor">
+<value>Spanish</value>
+</Data>
+<Data name="collegeminor">
+<value></value>
+</Data>
+<Data name="collegebio">
+<value>I play a ton of tennis.</value>
+</Data>
+<Data name="university">
+<value></value>
+</Data>
+<Data name="universityclass">
+<value></value>
+</Data>
+<Data name="universitymajor">
+<value></value>
+</Data>
+<Data name="universitybio">
+<value></value>
+</Data>
+<Data name="company">
+<value></value>
+</Data>
+<Data name="companyposition">
+<value></value>
+</Data>
+<Data name="companybio">
+<value></value>
+</Data>
+<Data name="image">
+<value>
+http://localhost/WoodlawnAlumMap/AlumMap/Images/kathleen.jpg</value>
+</Data>
+<Data name="caption">
+<value>
+Hanging with a camel.
+</value>
+</Data>
+</ExtendedData>
+</Placemark>
 </Document>
 </kml>

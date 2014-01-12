@@ -232,6 +232,48 @@ Tell us about where you are, what you're doing, and more!</span></p>
 Your Photo: <input type="file" id="photo" name="photo" size="25" />
 
 <?php
+$allowedExts = array("gif", "jpeg", "jpg", "png");
+$temp = explode(".", $_FILES["photo"]["name"]);
+$extension = end($temp);
+if ((($_FILES["photo"]["type"] == "image/gif")
+|| ($_FILES["photo"]["type"] == "image/jpeg")
+|| ($_FILES["photo"]["type"] == "image/jpg")
+|| ($_FILES["photo"]["type"] == "image/pjpeg")
+|| ($_FILES["photo"]["type"] == "image/x-png")
+|| ($_FILES["photo"]["type"] == "image/png"))
+&& ($_FILES["photo"]["size"] < 20000)
+&& in_array($extension, $allowedExts))
+  {
+  if ($_FILES["photo"]["error"] > 0)
+    {
+    echo "Return Code: " . $_FILES["photo"]["error"] . "<br>";
+    }
+  else
+    {
+    echo "Upload: " . $_FILES["photo"]["name"] . "<br>";
+    echo "Type: " . $_FILES["photo"]["type"] . "<br>";
+    echo "Size: " . ($_FILES["photo"]["size"] / 1024) . " kB<br>";
+    echo "Temp file: " . $_FILES["photo"]["tmp_name"] . "<br>";
+
+    if (file_exists("upload/" . $_FILES["photo"]["name"]))
+      {
+      echo $_FILES["photo"]["name"] . " already exists. ";
+      }
+    else
+      {
+      move_uploaded_file($_FILES["photo"]["tmp_name"],
+      "upload/" . $_FILES["photo"]["name"]);
+      echo "Stored in: " . "upload/" . $_FILES["photo"]["name"];
+      }
+    }
+  }
+else
+  {
+  echo "Invalid file";
+  }
+?>
+
+<?php
 $college = $_POST['college'];
 $university = $_POST['university'];
 $job = $_POST['job'];
