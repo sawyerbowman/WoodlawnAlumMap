@@ -1,126 +1,151 @@
 what,kind,bundleId,bundleVersion,description,time
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389548738882
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389548745468
-activated,editor,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.core.csssource.source",1389548751246
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389548816702
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389548828453
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389548830211
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389548922622
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389548956441
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389548958507
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959119
-error,log,,,"Error in JSDT Core during AST creation",1389548959120
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959124
-error,log,,,"Error in JSDT Core during AST creation",1389548959124
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959128
-error,log,,,"Error in JSDT Core during AST creation",1389548959128
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959132
-error,log,,,"Error in JSDT Core during AST creation",1389548959132
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959136
-error,log,,,"Error in JSDT Core during AST creation",1389548959136
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959139
-error,log,,,"Error in JSDT Core during AST creation",1389548959140
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389548959143
-error,log,,,"Error in JSDT Core during AST creation",1389548959143
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389549096309
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389549102177
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389549102712
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389549103609
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389549103997
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389549105648
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106579
-error,log,,,"Error in JSDT Core during AST creation",1389549106579
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106586
-error,log,,,"Error in JSDT Core during AST creation",1389549106586
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106591
-error,log,,,"Error in JSDT Core during AST creation",1389549106591
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106595
-error,log,,,"Error in JSDT Core during AST creation",1389549106595
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106599
-error,log,,,"Error in JSDT Core during AST creation",1389549106599
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106603
-error,log,,,"Error in JSDT Core during AST creation",1389549106603
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549106607
-error,log,,,"Error in JSDT Core during AST creation",1389549106607
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389549357701
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358427
-error,log,,,"Error in JSDT Core during AST creation",1389549358428
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358433
-error,log,,,"Error in JSDT Core during AST creation",1389549358434
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358438
-error,log,,,"Error in JSDT Core during AST creation",1389549358438
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358442
-error,log,,,"Error in JSDT Core during AST creation",1389549358442
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358446
-error,log,,,"Error in JSDT Core during AST creation",1389549358446
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358450
-error,log,,,"Error in JSDT Core during AST creation",1389549358450
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389549358454
-error,log,,,"Error in JSDT Core during AST creation",1389549358454
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389549403279
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389552720276
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389552726391
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389552879963
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389552887081
-opened,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389552888998
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389552891153
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389552905201
-opened,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389552907163
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389552908635
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389552923458
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389552925080
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389552931468
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389552993964
-executed,command,,,"AUTOGEN:::org.eclipse.php.editor.ruler.actions/org.eclipse.php.internal.ui.editor.PhpSelectRulerAction",1389553000674
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389553008311
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389553021292
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389553023787
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389553029677
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389553031832
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389553058263
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389553068200
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389554025300
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389554025524
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389554029886
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389554041557
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389554043280
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389554865909
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389554866127
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389554867868
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389554872088
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389554875629
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389554900429
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389554959317
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555011259
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555410390
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389555417737
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555428603
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555457149
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555503378
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389555550998
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555551209
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389555554563
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389555558632
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555586018
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389555599556
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555599763
-activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389555602158
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389555643624
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555648721
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389555680492
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555680694
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389555682238
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389557047609
-activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1389557053667
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389557064702
-executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389557070391
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389557379491
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389557385212
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389557386015
-error,log,,,"Error in JSDT Core during AST creation",1389557386016
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389557386022
-error,log,,,"Error in JSDT Core during AST creation",1389557386022
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389557386026
-error,log,,,"Error in JSDT Core during AST creation",1389557386026
-error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1389557386030
-error,log,,,"Error in JSDT Core during AST creation",1389557386030
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576123069
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389576128000
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576130902
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576137420
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576140397
+activated,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.ProblemView",1389576154874
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576154927
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576179391
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576188067
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576203271
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576207074
+activated,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.ProblemView",1389576230112
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576230171
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576274752
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576298971
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576302525
+activated,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.ProblemView",1389576337570
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576337638
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576366682
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389576374599
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576375663
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389576378546
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576386091
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576387743
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576391804
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576393091
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576398376
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576400251
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576403609
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576417156
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576417200
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576420575
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389576422134
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576428652
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576428937
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576430812
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576456433
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576516479
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576516530
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576518868
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576548915
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576550416
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576551456
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576567395
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576568598
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576587444
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576587513
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576590941
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576661429
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576663097
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576664432
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576681656
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576682375
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576686073
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576688557
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576739041
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576739112
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576742861
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576743082
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576743589
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576743953
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576744506
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576744989
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576745326
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576745677
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1389576746017
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389576790598
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576791799
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576795656
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576797632
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576805783
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576805852
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576807780
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576808724
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576809672
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576818195
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576818264
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576819853
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576822790
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576823979
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576830722
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576830771
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576832005
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576832383
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576835511
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576840551
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576840595
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576842657
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576853528
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576854868
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389576864607
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576864658
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576880460
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576939972
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389576944187
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389576949587
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389576967735
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389576975220
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389577008215
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577008259
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577013951
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389577020196
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577021859
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577023754
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389577029858
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577031184
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577037621
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577039276
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389577039945
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577041394
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389577070427
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577070494
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577078379
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389577088985
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577090728
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389577191001
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577191077
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577192573
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577195247
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577201552
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1389577202612
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1389577205006
+opened,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577205240
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577205289
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577231992
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577239686
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389577246895
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577247996
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577305182
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1389577318152
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577321893
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577380068
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577395304
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389577460528
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577475423
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577528980
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577536885
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577543838
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577545855
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577547809
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389577553180
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577560756
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577566494
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577571077
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1389577575919
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1389577579184
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1389577579749
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577582687
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1389577599778
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1389577604239

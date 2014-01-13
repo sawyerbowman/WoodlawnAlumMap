@@ -26,7 +26,6 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 
 <input type="hidden" name="next_url" value="http://localhost/WoodlawnAlumMap/AlumMap/Form/alumThankYou.php">
 
-
 <p>Your form is being processed... Please wait!</p>
 
 
@@ -34,6 +33,8 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 			id="firstname" name="firstname" value="<?php echo($_POST['firstname']); ?>">
 			<input type="hidden" type="text" size="17"
 			id="lastname" name="lastname" value="<?php echo($_POST['lastname']); ?>">
+			<input type="hidden" type="text" size="17"
+			id="email" name="email" value="<?php echo($_POST['email']); ?>">
 			<select style="display:none;" id="classyear" name="classyear">
 			<?php 
 			if ($currentmonth == "Jan" || $currentmonth == "Feb" || $currentmonth == "Mar" || $currentmonth == "Apr"){
@@ -134,8 +135,6 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 			echo ($_POST['jobbio']); 
 			}
 			?></textarea>
-			
-			<input type="file" id="photo" name="photo" size="25" value="<?php echo($_FILES['photo']);?>"/>
 
 <?php
 $college = $_POST['college'];
@@ -164,13 +163,13 @@ else {
 <input type="hidden" type="text" size="17"
 id="address" name="address" value="<?php echo($address); ?>">
 
-<input type="text" size="17"
-id="longitude" name="longitude" value="<?php echo($_POST['longitude']); ?>">
+<input type="hidden" type="text" size="17"
+id="longitude" name="longitude">
 
-<input type="text" size="17"
-id="latitude" name="latitude" value="<?php echo($_POST['latitude']); ?>">
+<input type="hidden" type="text" size="17"
+id="latitude" name="latitude">
 
-<?php echo('<script type="text/javascript"> codeAddress2(); </script>'); ?>
+<script type="text/javascript"> codeAddress2(); </script>
 
 </form>
 
@@ -179,7 +178,10 @@ include("../HeaderFooter/footer.html");
 ?>
 
 <script>
-document.alumForm2.submit();
+setTimeout( function () { 
+    document.alumForm2.submit();
+}, 1000);
 </script>
+
 
 

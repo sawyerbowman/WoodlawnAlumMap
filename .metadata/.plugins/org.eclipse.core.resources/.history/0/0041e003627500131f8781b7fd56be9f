@@ -1,6 +1,0 @@
-@CHARSET "UTF-8";
-
-html {height: 100%}
-body {height: 100%; margin: 0; padding: 0}
-
-#woodlawn_map {width:800px;height:600px;}

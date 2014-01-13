@@ -21,17 +21,40 @@ function validateForm() {
 	if($_POST['lastname'] == null){
 		$errors[] = 'Please enter a last name.';
 	}
-	if($_POST['alumcity'] == null){
-		$errors[] = 'Please enter a city.';
+	if($_POST['email'] == null){
+		$errors[] = 'Please enter an email address.';
 	}
-	if($_POST['alumcountry'] == 'United States of America' && $_POST['alumstate'] == null){
-		$errors[] = 'Please enter a state.';
+	else{
+		$email = $_POST['email'];
+		$atboolean = false;
+		$periodboolean = false;
+		$spaceboolean = false;
+		for($i=0; $i<strlen($email); $i++) {
+			if ($email[$i] == '@'){
+				$atboolean = true;
+			}
+			if ($email[$i] == '.'){
+				$periodboolean = true;
+			}
+			if ($email[$i] == ' '){
+				$spaceboolean = true;
+			}
+		}
+		if ($spaceboolean){
+			$errors[] = 'Please enter a valid email address with no space characters.';
+		}
+		else if (!$atboolean && !$periodboolean){
+			$errors[] = 'Please enter a valid email address with both an \'@\' symbol and a \'.\' symbol.';
+		}
+		else if (!$atboolean){
+			$errors[] = 'Please enter a valid email address with an \'@\' symbol.';
+		}
+		else if (!$periodboolean){
+			$errors[] = 'Please enter a valid email address with a \'.\' symbol.';
+		}
 	}
 	if($_POST['classyear'] == null){
-		$errors[] = 'Please enter a class year.';
-	}
-	if($_POST['woodlawnprepare'] == null){
-		$errors[] = 'Please enter a short statement for how Woodlawn prepared you.';
+		$errors[] = 'Please enter your Woodlawn class year.';
 	}
 	if($_POST['woodlawnmemory'] == null){
 		$errors[] = 'Please enter a short statement for what you miss about Woodlawn.';
@@ -45,8 +68,9 @@ function validateForm() {
 	if($_POST['alumcountry'] == null){
 		$errors[] = 'Please enter a country.';
 	}
-
-	
+	if($_POST['college'] == null && $_POST['university'] == null && $_POST['company'] == null){
+		$errors[] = 'Please enter information about your college, graduate school, or company.';
+	}
 	if(!$errors)
         return "";
     else
