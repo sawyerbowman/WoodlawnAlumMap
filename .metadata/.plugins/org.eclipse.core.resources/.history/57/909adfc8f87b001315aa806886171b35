@@ -102,7 +102,7 @@ Cross Country at Popham Beach.
 <value>Information Technology</value>
 </Data>
 <Data name="collegeminor">
-<value></value>
+<value>Chemistry</value>
 </Data>
 <Data name="collegebio">
 <value>I am currently an IT major with a focus in web programming. I am also co-captain of the Los Osos Ultimate Frisbee team.</value>
@@ -197,138 +197,6 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/darius.jpg</value>
 <Data name="image">
 <value>
 http://localhost/WoodlawnAlumMap/AlumMap/Images/terin.jpg</value>
-</Data>
-<Data name="caption">
-<value>
-</value>
-</Data>
-</ExtendedData>
-</Placemark>
-
-<Placemark>
-<name>Sophia Spach</name>
-<styleUrl>#style21</styleUrl>
-<Point>
-<coordinates>-79.5065980,36.1030610</coordinates>
-</Point>
-<ExtendedData>
-<Data name="woodlawnclass">
-<value>2011</value>
-</Data>
-<Data name="woodlawnprepare">
-<value>Woodlawn taught us how to be lifelong learners through both academics and extra curricular activities. I felt very prepared for college and in some casses my classes in college were easier than Woodlawn, which was great.</value>
-</Data>
-<Data name="woodlawnmemory">
-<value>I miss the small community of people as well as the teachers. It was so amazing to be able to form such strong relationships throughout high school because Woodlawn was so small.</value>
-</Data>
-<Data name="location">
-<value>Elon, NC, USA</value>
-</Data>
-<Data name="college">
-<value>Elon University</value>
-</Data>
-<Data name="collegeclass">
-<value>2015</value>
-</Data>
-<Data name="collegemajor">
-<value>Human Service Studies</value>
-</Data>
-<Data name="collegeminor">
-<value>Religious Studies and Art</value>
-</Data>
-<Data name="collegebio">
-<value>I am very involved in the international community at Elon, I live in the international learning community and am in the Elon International Society. I love learning about other cultures this way and getting to meet people from all over the world. I am also in Gospel Choir, and I love it. I have also discovered a new passion for learning American Sign Language and am taking level 2 in the spring!</value>
-</Data>
-<Data name="university">
-<value></value>
-</Data>
-<Data name="universityclass">
-<value></value>
-</Data>
-<Data name="universitymajor">
-<value></value>
-</Data>
-<Data name="universitybio">
-<value></value>
-</Data>
-<Data name="company">
-<value></value>
-</Data>
-<Data name="companyposition">
-<value></value>
-</Data>
-<Data name="companybio">
-<value></value>
-</Data>
-<Data name="image">
-<value>
-http://localhost/WoodlawnAlumMap/AlumMap/Images/sophia.jpg</value>
-</Data>
-<Data name="caption">
-<value>
-</value>
-</Data>
-</ExtendedData>
-</Placemark>
-
-<Placemark>
-<name>Alexa Adams</name>
-<styleUrl>#style21</styleUrl>
-<Point>
-<coordinates>-77.8697740,34.2257750</coordinates>
-</Point>
-<ExtendedData>
-<Data name="woodlawnclass">
-<value>2011</value>
-</Data>
-<Data name="woodlawnprepare">
-<value>Woodlawn taught me great writing skills, how to manage school work, and how to network amongst my peers, professors, and employers.</value>
-</Data>
-<Data name="woodlawnmemory">
-<value>The personal relationships with my teachers.</value>
-</Data>
-<Data name="location">
-<value>Wilmington, NC, USA</value>
-</Data>
-<Data name="college">
-<value>University of North Carolina Wilmington</value>
-</Data>
-<Data name="collegeclass">
-<value>2015</value>
-</Data>
-<Data name="collegemajor">
-<value>Psychology</value>
-</Data>
-<Data name="collegeminor">
-<value>Undecided</value>
-</Data>
-<Data name="collegebio">
-<value>Trying to get A's in all of my classes!</value>
-</Data>
-<Data name="university">
-<value></value>
-</Data>
-<Data name="universityclass">
-<value></value>
-</Data>
-<Data name="universitymajor">
-<value></value>
-</Data>
-<Data name="universitybio">
-<value></value>
-</Data>
-<Data name="company">
-<value></value>
-</Data>
-<Data name="companyposition">
-<value></value>
-</Data>
-<Data name="companybio">
-<value></value>
-</Data>
-<Data name="image">
-<value>
-http://localhost/WoodlawnAlumMap/AlumMap/Images/alexa.jpg</value>
 </Data>
 <Data name="caption">
 <value>

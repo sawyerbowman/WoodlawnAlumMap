@@ -139,7 +139,7 @@ action="http://us.1.p10.webhosting.yahoo.com/forms?login=dwayneb">
 <?php
 $college = $_POST['college'];
 $university = $_POST['university'];
-$company = $_POST['company'];
+$job = $_POST['company'];
 $city = $_POST['alumcity'];
 $state = $_POST['alumstate'];
 $country = $_POST['alumcountry'];
@@ -150,7 +150,7 @@ elseif ($job == null && $university != null) {
 	$address = "$university $city $state $country";
 }
 elseif ($job != null) {
-	$address = "$company $city $state $country";
+	$address = "$job $city $state $country";
 }
 else {
 	$address = "$city $state $country";

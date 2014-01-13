@@ -232,18 +232,18 @@ Tell us about where you are, what you're doing, and more!</span></p>
 <?php
 $college = $_POST['college'];
 $university = $_POST['university'];
-$company = $_POST['company'];
+$job = $_POST['job'];
 $city = $_POST['alumcity'];
 $state = $_POST['alumstate'];
 $country = $_POST['alumcountry'];
-if ($university == null && $company == null && $college != null){
+if ($university == null && $job == null && $college != null){
 	$address = "$college $city $state $country";
 }
-elseif ($company == null && $university != null) {
+elseif ($job == null && $university != null) {
 	$address = "$university $city $state $country";
 }
-elseif ($company != null) {
-	$address = "$company $city $state $country";
+elseif ($job != null) {
+	$address = "$job $city $state $country";
 }
 else {
 	$address = "$city $state $country";

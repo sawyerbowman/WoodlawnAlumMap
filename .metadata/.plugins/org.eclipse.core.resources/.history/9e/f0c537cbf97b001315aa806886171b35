@@ -102,7 +102,7 @@ Cross Country at Popham Beach.
 <value>Information Technology</value>
 </Data>
 <Data name="collegeminor">
-<value></value>
+<value>Chemistry</value>
 </Data>
 <Data name="collegebio">
 <value>I am currently an IT major with a focus in web programming. I am also co-captain of the Los Osos Ultimate Frisbee team.</value>
@@ -209,7 +209,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/terin.jpg</value>
 <name>Sophia Spach</name>
 <styleUrl>#style21</styleUrl>
 <Point>
-<coordinates>-79.5065980,36.1030610</coordinates>
+<coordinates>-72.9223430,41.3163240</coordinates>
 </Point>
 <ExtendedData>
 <Data name="woodlawnclass">
@@ -237,7 +237,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/terin.jpg</value>
 <value>Religious Studies and Art</value>
 </Data>
 <Data name="collegebio">
-<value>I am very involved in the international community at Elon, I live in the international learning community and am in the Elon International Society. I love learning about other cultures this way and getting to meet people from all over the world. I am also in Gospel Choir, and I love it. I have also discovered a new passion for learning American Sign Language and am taking level 2 in the spring!</value>
+<value>I am very involved in the international community at Elon, I live in the international learning community and am in the Elon International Society. I love learning about other cultures this way and getting to meet people from all over the world. I am also in Gospel Choir, and I love it. I ahve also discovered a new passion for learning American Sign Language and am taking level 2 in the spring!</value>
 </Data>
 <Data name="university">
 <value></value>
@@ -275,7 +275,7 @@ http://localhost/WoodlawnAlumMap/AlumMap/Images/sophia.jpg</value>
 <name>Alexa Adams</name>
 <styleUrl>#style21</styleUrl>
 <Point>
-<coordinates>-77.8697740,34.2257750</coordinates>
+<coordinates>-72.9223430,41.3163240</coordinates>
 </Point>
 <ExtendedData>
 <Data name="woodlawnclass">
